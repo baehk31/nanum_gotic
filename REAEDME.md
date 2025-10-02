@@ -274,6 +274,10 @@ IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 포장지	판매용 상품의 패키지	사용 가능
 영상	유튜브, CF, 상업영화, 뮤직비디오, 영상 자막, 영상 오프닝/엔딩 크레딧 등	사용 가능
 임베딩	웹사이트 및 프로그램 서버 내 폰트 탑재, E-book 제작	사용 가능
+
+
+[WEBFONT]
+@import url('http://fonts.googleapis.com/earlyaccess/nanumgothic.css');
 BI/CI	회사명, 브랜드명, 상품명, 로고, 마크, 슬로건, 캐치프레이즈	사용 가능
 OFL	폰트 파일 수정·복제·배포 가능 단, 폰트 파일의 유료 판매는 금지
 
